@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaarnHeir
 - 👀 I’m interested in full stack development!
-- 🌱 I’m currently learning the MERN stack with my eye on Djano + Next.js
+- 🌱 I’m currently learning the MERN stack with my eye on Django + Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
