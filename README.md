@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CaarnHeir
 - 👀 I’m interested in full stack development!
-- 🌱 I’m currently learning the MERN stack with my eye on Django + Next.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React/Next.js
+  - I am hoping to use Next.js with Django/DRF going forward!
+- 💞️ I’m looking to collaborate on interesting open source project!
 
 <!---
 CaarnHeir/CaarnHeir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
