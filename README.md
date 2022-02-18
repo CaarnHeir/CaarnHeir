@@ -6,8 +6,7 @@ Slowly, I began to incorporate that knowledge into my everyday work-life, by “
 
 My passion for technology and subsequently my desire to identify areas where programming could improve life and remove waste, has organically led me to seek out full time development roles and turn a passion into a profession!
 
-🌱 I’m currently learning React/Next.js
-I am hoping to use Next.js with FastAPI going forward!
+
 💞️ I’m looking to collaborate on interesting open source projects!
 
 <!---
