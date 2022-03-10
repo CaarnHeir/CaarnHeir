@@ -9,6 +9,8 @@ My passion for technology and subsequently my desire to identify areas where pro
 
 💞️ I’m looking to collaborate on interesting open source projects!
 
+Currently learning: GO, Dart & Flutter!
+
 <!---
 CaarnHeir/CaarnHeir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
