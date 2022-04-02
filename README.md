@@ -9,7 +9,7 @@ My passion for technology and subsequently my desire to identify areas where pro
 
 💞️ I’m looking to collaborate on interesting open source projects!
 
-Currently learning: GO, Dart & Flutter!
+Currently learning: Golang, Dart, Data Structures and Algorithms!
 
 <!---
 CaarnHeir/CaarnHeir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
